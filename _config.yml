@@ -1,0 +1,28 @@
+name: Enigma 2
+favicon: null
+layout_spectrum: 0.882608960615471
+typography_spectrum: 0.41701083560474217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8870698260143399
+  lightness: 0.9814487863332033
+  saturation: 0.703024429269135
+  rhythmicContrast: 0.6879474343731999
+purpose: []
