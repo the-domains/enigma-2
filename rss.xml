@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Enigma 2]]></title>
         <description><![CDATA[Enigma 2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/enigma-2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 12:02:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 12:02:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/enigma-2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CONSERVATION]]></title>
+            <description><![CDATA[<article><h1>CONSERVATION</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0de21fee-96aa-40dc-8f42-17e6962a4621.jpg"></article>]]></description>
+            <link>https://thegrid.ai/enigma-2/conservation/index.html</link>
+            <guid isPermaLink="false">433c1bd6-5f69-4bc3-95c6-7d127274c7a8</guid>
+            <pubDate>Thu, 12 May 2016 12:02:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DOCUMENTARY]]></title>
             <description><![CDATA[<article><h1>DOCUMENTARY</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa3434c-76f3-4482-9418-09c8db02f634.jpg"></article>]]></description>
-            <link>undefineddocumentary/index.html</link>
+            <link>https://thegrid.ai/enigma-2/documentary/index.html</link>
             <guid isPermaLink="false">674c7f7e-e1c7-4f28-9380-b22d11db84d6</guid>
             <pubDate>Thu, 12 May 2016 12:02:09 GMT</pubDate>
         </item>
